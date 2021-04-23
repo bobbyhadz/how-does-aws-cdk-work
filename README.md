@@ -1,7 +1,7 @@
-# Article name here
+# How does AWS CDK work - Complete Guide
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-s3-presigned-url-react)
+[bobbyhadz.com](https://bobbyhadz.com/blog/how-does-aws-cdk-work)
 `<- Update Link`
 
 ## How to Use
