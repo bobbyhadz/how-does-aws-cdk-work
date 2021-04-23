@@ -2,7 +2,6 @@
 
 A repository for an article on
 [bobbyhadz.com](https://bobbyhadz.com/blog/how-does-aws-cdk-work)
-`<- Update Link`
 
 ## How to Use
 
